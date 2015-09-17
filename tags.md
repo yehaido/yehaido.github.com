@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: ""  
-header-img: "img/semantic.jpg"  
+header-img: "img/zhihu.jpg"  
 ---
 
 ##本页使用方法
