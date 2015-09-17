@@ -1,1 +1,0 @@
-# yehaido.github.com
