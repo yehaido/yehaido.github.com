@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Milestone"
-description: ""
+description: "阶段"
 header-img: "img/semantic.jpg"
 ---
 
