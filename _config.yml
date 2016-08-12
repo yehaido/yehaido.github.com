@@ -21,11 +21,10 @@ github_username: yehaido
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
-markdown: kramdown
-highlighter: rouge
+markdown: redcarpet
+highlighter: pygments
 permalink: pretty
 paginate: 8
-pygments: true
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
