@@ -1,16 +1,16 @@
 # Site settings
-title: 三省吾身
+title: 三省吾身 
+name: 三省吾身 yehaido's personal site 
 header-img: "img/facebook.jpg"
-tagline: "cn"  
-description: "点点滴滴"  
+description: "yehaido's personal site"  
 baseurl: ""
-url: "http://yehaido"  
+url: "http://yehaido.com"  
+rss_url: "/feed.xml"  # RSS 订阅 URL
 
 # About/contact
 owner: 
   name: "yehaido"
   email: yehaido@yeah.net
-  bio: "写就是写的报酬"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
