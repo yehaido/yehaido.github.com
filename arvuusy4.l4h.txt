@@ -1,0 +1,14 @@
+﻿Revert "new post"
+
+This reverts commit ae074a1ad6414feff8b100b89d13751e31cc43f0.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   _posts/2014-02-10-qianziwen-start.md
+#	deleted:    _posts/2016-08-12-git-use.md
+#
+
